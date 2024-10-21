@@ -2,7 +2,7 @@
 
 ### Contact Info 📫
 
-[<img alt="Github/Commandcracker" src="https://img.shields.io/badge/GitHub/Commandcracker-%2312100E?style=flat-square&logo=Github&logoColor=white"/>](https://github.com/Commandcracker)
+[<img alt="Github/FxileF" src="https://img.shields.io/badge/GitHub/FxileF-%2312100E?style=flat-square&logo=Github&logoColor=white"/>](https://github.com/FxileF)
 
 ### Tech Stack 👨‍💻
 
