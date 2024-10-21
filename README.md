@@ -2,9 +2,9 @@
 
 ### Contact Info 📫
 
-[<img alt="Github/Commandcracker" src="https://img.shields.io/badge/GitHub/Commandcracker-%2312100E?style=flat-square&logo=Github&logoColor=white"/>](https://github.com/Commandcracker)
+[<img alt="Github/FxileF" src="https://img.shields.io/badge/GitHub/FxileF-%2312100E?style=flat-square&logo=Github&logoColor=white"/>](https://github.com/FxileF)
 
-[<img alt="Github/Commandcracker" src="https://img.shields.io/badge/F%C3%A9lix%20Faravel-linkedin?style=flat-square&logo=LinkedIn&label=LinkedIn&labelColor=blue&color=white"/>](https://www.linkedin.com/in/f%C3%A9lix-faravel-8120412ba/)
+[<img alt="LinkedIn/FelixFaravel" src="https://img.shields.io/badge/F%C3%A9lix%20Faravel-linkedin?style=flat-square&logo=LinkedIn&label=LinkedIn&labelColor=blue&color=white"/>](https://www.linkedin.com/in/f%C3%A9lix-faravel-8120412ba/)
 
 ### Tech Stack 👨‍💻
 
