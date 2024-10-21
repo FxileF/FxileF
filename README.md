@@ -8,7 +8,6 @@
 
 ### Tech Stack 👨‍💻
 
-![Static Badge]()
 <ins>Languages im confident in</ins><br>
 
 [<img alt="Python" src="https://img.shields.io/badge/Python-2b5b84?style=flat-square&logo=python&logoColor=white"/>](https://www.python.org/)
