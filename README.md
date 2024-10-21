@@ -2,10 +2,13 @@
 
 ### Contact Info 📫
 
-[<img alt="Github/FxileF" src="https://img.shields.io/badge/GitHub/FxileF-%2312100E?style=flat-square&logo=Github&logoColor=white"/>](https://github.com/FxileF)
+[<img alt="Github/Commandcracker" src="https://img.shields.io/badge/GitHub/Commandcracker-%2312100E?style=flat-square&logo=Github&logoColor=white"/>](https://github.com/Commandcracker)
+
+[<img alt="Github/Commandcracker" src="https://img.shields.io/badge/F%C3%A9lix%20Faravel-linkedin?style=flat-square&logo=LinkedIn&label=LinkedIn&labelColor=blue&color=white"/>](https://www.linkedin.com/in/f%C3%A9lix-faravel-8120412ba/)
 
 ### Tech Stack 👨‍💻
 
+![Static Badge]()
 <ins>Languages im confident in</ins><br>
 
 [<img alt="Python" src="https://img.shields.io/badge/Python-2b5b84?style=flat-square&logo=python&logoColor=white"/>](https://www.python.org/)
